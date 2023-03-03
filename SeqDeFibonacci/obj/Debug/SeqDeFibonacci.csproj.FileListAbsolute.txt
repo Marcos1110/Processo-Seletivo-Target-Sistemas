@@ -1,0 +1,7 @@
+C:\Users\marco\OneDrive\Documentos\PROJETOS\c#\processoSeletivo\SeqDeFibonacci\obj\Debug\SeqDeFibonacci.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\PROJETOS\c#\processoSeletivo\SeqDeFibonacci\obj\Debug\SeqDeFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\PROJETOS\c#\processoSeletivo\SeqDeFibonacci\bin\Debug\SeqDeFibonacci.exe.config
+C:\Users\marco\OneDrive\Documentos\PROJETOS\c#\processoSeletivo\SeqDeFibonacci\bin\Debug\SeqDeFibonacci.exe
+C:\Users\marco\OneDrive\Documentos\PROJETOS\c#\processoSeletivo\SeqDeFibonacci\bin\Debug\SeqDeFibonacci.pdb
+C:\Users\marco\OneDrive\Documentos\PROJETOS\c#\processoSeletivo\SeqDeFibonacci\obj\Debug\SeqDeFibonacci.exe
+C:\Users\marco\OneDrive\Documentos\PROJETOS\c#\processoSeletivo\SeqDeFibonacci\obj\Debug\SeqDeFibonacci.pdb
