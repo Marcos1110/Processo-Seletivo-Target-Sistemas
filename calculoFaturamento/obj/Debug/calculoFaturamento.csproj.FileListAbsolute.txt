@@ -1,0 +1,10 @@
+C:\Users\marco\OneDrive\Documentos\PROJETOS\processoSeletivo\calculoFaturamento\bin\Debug\calculoFaturamento.exe.config
+C:\Users\marco\OneDrive\Documentos\PROJETOS\processoSeletivo\calculoFaturamento\bin\Debug\calculoFaturamento.exe
+C:\Users\marco\OneDrive\Documentos\PROJETOS\processoSeletivo\calculoFaturamento\bin\Debug\calculoFaturamento.pdb
+C:\Users\marco\OneDrive\Documentos\PROJETOS\processoSeletivo\calculoFaturamento\obj\Debug\calculoFaturamento.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\PROJETOS\processoSeletivo\calculoFaturamento\obj\Debug\calculoFaturamento.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\PROJETOS\processoSeletivo\calculoFaturamento\obj\Debug\calculoFaturamento.exe
+C:\Users\marco\OneDrive\Documentos\PROJETOS\processoSeletivo\calculoFaturamento\obj\Debug\calculoFaturamento.pdb
+C:\Users\marco\OneDrive\Documentos\PROJETOS\processoSeletivo\calculoFaturamento\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marco\OneDrive\Documentos\PROJETOS\processoSeletivo\calculoFaturamento\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marco\OneDrive\Documentos\PROJETOS\processoSeletivo\calculoFaturamento\obj\Debug\calculoFaturamento.csproj.CopyComplete
