@@ -1,0 +1,7 @@
+C:\Users\marco\OneDrive\Documentos\PROJETOS\processoSeletivo\calcDistribuidora\bin\Debug\calcDistribuidora.exe.config
+C:\Users\marco\OneDrive\Documentos\PROJETOS\processoSeletivo\calcDistribuidora\bin\Debug\calcDistribuidora.exe
+C:\Users\marco\OneDrive\Documentos\PROJETOS\processoSeletivo\calcDistribuidora\bin\Debug\calcDistribuidora.pdb
+C:\Users\marco\OneDrive\Documentos\PROJETOS\processoSeletivo\calcDistribuidora\obj\Debug\calcDistribuidora.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\PROJETOS\processoSeletivo\calcDistribuidora\obj\Debug\calcDistribuidora.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\PROJETOS\processoSeletivo\calcDistribuidora\obj\Debug\calcDistribuidora.exe
+C:\Users\marco\OneDrive\Documentos\PROJETOS\processoSeletivo\calcDistribuidora\obj\Debug\calcDistribuidora.pdb
